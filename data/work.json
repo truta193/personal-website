@@ -1,0 +1,39 @@
+{
+  "work": [
+    {
+      "name": "Bitdefender",
+      "href": "https://www.bitdefender.com",
+      "title": "Software Engineer",
+      "logo": "bitdefender_logo.svg",
+      "start": "Oct 2024",
+      "description": [
+        "Member of the Windows drivers team"
+      ]
+    },
+    {
+      "name": "Bitdefender",
+      "href": "https://www.bitdefender.com",
+      "title": "Software Engineer Intern",
+      "logo": "bitdefender_logo.svg",
+      "start": "Jul 2024",
+      "end": "Sep 2024",
+      "description": [
+        "Developed a multithreaded file pattern search application",
+        "Developed a file system minifilter driver for Windows that intercepts file operations, with user-mode actions",
+        "Developed a network filter driver for Windows that intercepts network packets, with user-mode actions and process whitelisting"
+      ]
+    },
+    {
+      "name": "Nagarro C# Remote Learning",
+      "href": "https://www.nagarro.com",
+      "title": "Software Engineer Apprentice",
+      "logo": "nagarro_logo.svg",
+      "start": "Nov 2023",
+      "end": "Apr 2024",
+      "description": [
+        "Built a vending machine console application using C# (.NET), improving hands-on skills like TDD and OOP",
+        "Received mentorship and detailed reviews from professional engineers, enhancing code quality and industry skills"
+      ]
+    }
+  ]
+}

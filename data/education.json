@@ -1,0 +1,12 @@
+{
+    "education": [
+      {
+        "name": "Technical Univeristy of Cluj-Napoca",
+        "href": "https://www.utcluj.ro",
+        "title": "Bachelor of Science in Computer Science",
+        "logo": "utcn_logo.svg",
+        "start": "Oct 2022",
+        "end": "Jul 2026"
+      }
+    ]
+  }

@@ -11,7 +11,7 @@ export default function FitIcon({ name, scale = 1 }: IconProps) {
       class={`pointer-events-none`}
       style={{
         transform: `scale(${scale})`,
-        transformOrigin: 'center'
+        transformOrigin: "center",
       }}
     />
   );

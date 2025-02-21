@@ -1,5 +1,5 @@
 import { Experience } from "../types.ts";
-import Icon from "./FitIcon.tsx";
+import FitIcon from "./FitIcon.tsx";
 
 interface TimelineItemProps {
   experience: Experience;
@@ -17,7 +17,7 @@ export function TimelineItem({ experience }: TimelineItemProps) {
         class="absolute -left-16 top-4 flex items-center justify-center rounded-full bg-white"
       >
         <div class="size-12 border rounded-full overflow-hidden">
-          <Icon name={logo} />
+          <FitIcon name={logo} />
         </div>
       </a>
 
@@ -44,7 +44,7 @@ export function TimelineItem({ experience }: TimelineItemProps) {
           {links.map((link) => (
             <a href={link.href} class="inline-flex items-center">
               <span class="inline-flex items-center gap-2 rounded-full bg-gray-100 px-2 py-1 text-xs font-semibold">
-                <Icon name={link.icon} />
+                <FitIcon name={link.icon} />
                 {link.name}
               </span>
             </a>

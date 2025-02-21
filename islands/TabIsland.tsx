@@ -12,7 +12,7 @@ export default function TabIsland({ work, education }: TabIslandProps) {
 
   return (
     <div class="w-full max-w-3xl mx-auto">
-      <div class="flex space-x-1 rounded-lg bg-gray-100 p-1">
+      <div class="flex rounded-lg bg-gray-100">
         <button
           type="button"
           class={`flex-1 rounded-md px-3 py-1.5 text-sm font-medium ${

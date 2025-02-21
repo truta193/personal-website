@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "name": "Ametrine",
+      "description": "OpenGL based framework for creating 3D games and simulations. Single header implementation",
+      "image": "/me.jpg",
+      "tags": [
+        "C",
+        "OpenGL"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/truta193/ametrine",
+          "iconClass": "fa-brands fa-github" 
+        }
+      ]
+    },
+    {
+        "name": "BreakoutASM",
+        "description": "The classic Breakout game, implemented in x86 Assembly using a canvas framework from TUCN",
+        "image": "/me.jpg",
+        "tags": [
+          "Assembly",
+          "Game"
+        ],
+        "links": [
+          {
+            "name": "Source",
+            "href": "https://github.com/truta193/BreakoutASM",
+            "iconClass": "fa-brands fa-github" 
+          }
+        ]
+      },
+      {
+        "name": "KotlinEditor",
+        "description": "A simple script editing app for Kotlin. It uses kotlinc to run the scripts and has an interactive output panel",
+        "image": "/me.jpg",
+        "tags": [
+          "C++",
+          "Qt",
+          "QML",
+          "Editor"
+        ],
+        "links": [
+          {
+            "name": "Source",
+            "href": "https://github.com/truta193/KotlinEditor",
+            "iconClass": "fa-brands fa-github" 
+          }
+        ]
+      },
+      {
+        "name": "Proteus",
+        "description": "A timetable management application for Android",
+        "image": "/me.jpg",
+        "tags": [
+          "Kotlin",
+          "Android",
+          "Firebase",
+          "Jetpack Compose"
+        ],
+        "links": [
+          {
+            "name": "Source",
+            "href": "https://github.com/truta193/Proteus",
+            "iconClass": "fa-brands fa-github" 
+          }
+        ]
+      }
+  ]
+}

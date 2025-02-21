@@ -20,9 +20,9 @@ export default function ProjectCard({ project }: ProjectCardProps) {
   return (
     <div class="rounded overflow-hidden shadow-lg bg-white">
       <div class="px-6 py-6">
-        <img 
+        <img
           class="w-full h-48 object-cover rounded"
-          src={project.image} 
+          src={project.image}
           alt={project.name}
         />
       </div>
@@ -32,7 +32,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
           {project.description}
         </p>
       </div>
-      
+
       <div class="px-6 py-2">
         {project.tags.map((tag, index) => (
           <span

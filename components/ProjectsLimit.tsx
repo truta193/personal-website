@@ -1,5 +1,5 @@
 import ProjectCard from "./ProjectCard.tsx";
-import projectsData from "../data/projects.json" with { type: "json" };
+import projectsData from "../static/data/projects.json" with { type: "json" };
 
 interface ProjectsProps {
   limit?: number;

@@ -1,7 +1,6 @@
-import FitIcon from "../components/FitIcon.tsx";
-import ProjectsLimit from "../components/ProjectsLimit.tsx";
 import educationData from "../static/data/education.json" with { type: "json" };
 import workData from "../static/data/work.json" with { type: "json" };
+import ProjectsLimit from "../components/ProjectsLimit.tsx";
 import TabIsland from "../islands/TabIsland.tsx";
 
 export default function Home() {

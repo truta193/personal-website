@@ -32,6 +32,5 @@ jobs:
           project: "truta193"
           entrypoint: "main.ts"
           root: "."
-          continue-on-error: true
           
           

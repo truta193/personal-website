@@ -19,7 +19,7 @@
     {
         "name": "BreakoutASM",
         "description": "The classic Breakout game, implemented in x86 Assembly using a canvas framework from TUCN",
-        "image": "/me.jpg",
+        "image": "/Thumbnail_BreakoutASM.png",
         "tags": [
           "Assembly",
           "Game"
@@ -35,7 +35,7 @@
       {
         "name": "KotlinEditor",
         "description": "A simple script editing app for Kotlin. It uses kotlinc to run the scripts and has an interactive output panel",
-        "image": "/me.jpg",
+        "image": "/Thumbnail_KotlinEditor.png",
         "tags": [
           "C++",
           "Qt",

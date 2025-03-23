@@ -1,0 +1,14 @@
+{
+  "socials": [
+    {
+      "name": "GitHub",
+      "href": "https://www.github.com/truta193",
+      "iconClass": "fa-brands fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/truta193/",
+      "iconClass": "fa-brands fa-linkedin"
+    }
+  ]
+}
